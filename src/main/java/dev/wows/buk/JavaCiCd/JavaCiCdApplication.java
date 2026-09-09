@@ -8,8 +8,6 @@ public class JavaCiCdApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JavaCiCdApplication.class, args);
-
-		System.out.println("Hello, World!");
 	}
 
 }
